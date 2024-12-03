@@ -117,18 +117,6 @@ The **General Management App** is a RESTful API designed for managing various re
   npm run lint:fix
   ```
 
-- **Run Tests**: Executes tests using Jest.
-
-  ```bash
-  npm run test
-  ```
-
-- **Run Tests in Watch Mode**: Watches for changes and reruns tests.
-
-  ```bash
-  npm run test:watch
-  ```
-
 - **Generate Migration**: Creates a new migration file.
 
   ```bash
@@ -192,23 +180,7 @@ Migrations are used to manage database schema changes. They are configured using
   ```bash
   npm run migration:revert
   ```
-
-## Testing
-
-Testing is performed using Jest. Ensure tests are written for your application logic.
-
-- **Run Tests**: Executes all tests.
-
-  ```bash
-  npm run test
-  ```
-
-- **Run Tests in Watch Mode**: Watches for changes and reruns tests.
-
-  ```bash
-  npm run test:watch
-  ```
-
+  
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
