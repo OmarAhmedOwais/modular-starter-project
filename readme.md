@@ -13,7 +13,6 @@ The **General Management App** is a RESTful API designed for managing various re
 - [Scripts](#scripts)
 - [API Documentation](#api-documentation)
 - [Migrations](#migrations)
-- [Testing](#testing)
 - [License](#license)
 
 ## Features
@@ -31,7 +30,6 @@ The **General Management App** is a RESTful API designed for managing various re
 - **TypeScript**: Superset of JavaScript with static types.
 - **TypeORM**: ORM for TypeScript and JavaScript.
 - **Swagger**: API documentation generator.
-- **Jest**: Testing framework.
 - **TypeScript Node Dev**: Development tool for TypeScript.
 
 ## Installation
